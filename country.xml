@@ -19878,11 +19878,9 @@ this repository contains the full copyright notices and license terms. -->
             <field name="country" ref="rs"/>
         </record>
 
-        <record model="country.subdivision" id="rs-km">
-            <field name="name">Kosovo-Metohija</field>
-            <field name="code">RS-KM</field>
-            <field name="type">autonomous province</field>
-            <field name="country" ref="rs"/>
+        <record model="country.country" id="xk">
+            <field name="name">Kosovo</field>
+            <field name="code">RKs</field>
         </record>
 
         <record model="country.subdivision" id="rs-vo">
