@@ -6591,8 +6591,8 @@
             <field name="country" ref="dm"/>
         </record>
 
-        <record model="country.subdivision" id="do-01">
-            <field name="name">Distrito Nacional (Santo Domingo)</field>
+      <record model="country.subdivision" id="do-01">
+            <field name="name">Distrito Nacional</field>
             <field name="code">DO-01</field>
             <field name="type">district</field>
             <field name="country" ref="do"/>
@@ -6634,14 +6634,14 @@
         </record>
 
         <record model="country.subdivision" id="do-07">
-            <field name="name">La Estrelleta [Elías Piña]</field>
+            <field name="name">Elías Piña</field>
             <field name="code">DO-07</field>
             <field name="type">province</field>
             <field name="country" ref="do"/>
         </record>
 
         <record model="country.subdivision" id="do-08">
-            <field name="name">El Seybo [El Seibo]</field>
+            <field name="name">El Seibo</field>
             <field name="code">DO-08</field>
             <field name="type">province</field>
             <field name="country" ref="do"/>
@@ -6718,7 +6718,7 @@
         </record>
 
         <record model="country.subdivision" id="do-19">
-            <field name="name">Salcedo</field>
+            <field name="name">Hermanas Mirabal</field>
             <field name="code">DO-19</field>
             <field name="type">province</field>
             <field name="country" ref="do"/>
@@ -6798,6 +6798,45 @@
             <field name="name">Hato Mayor</field>
             <field name="code">DO-30</field>
             <field name="type">province</field>
+            <field name="country" ref="do"/>
+        </record>
+
+        <record model="country.subdivision" id="do-31">
+            <field name="name">San José de Ocoa</field>
+            <field name="code">DO-31</field>
+            <field name="type">province</field>
+            <field name="country" ref="do"/>
+        </record>
+
+        <record model="country.subdivision" id="do-32">
+            <field name="name">Santo Domingo</field>
+            <field name="code">DO-32</field>
+            <field name="type">province</field>
+            <field name="country" ref="do"/>
+
+        </record>
+
+        <record model="country.subdivision" id="do-32-1">
+            <field name="name">Santo Domingo Este</field>
+            <field name="code">DO-32-1</field>
+            <field name="type">borough</field>
+            <field name="parent" ref="do-32"/>
+            <field name="country" ref="do"/>
+        </record>
+
+        <record model="country.subdivision" id="do-32-2">
+            <field name="name">Santo Domingo Norte</field>
+            <field name="code">DO-32-2</field>
+            <field name="type">borough</field>
+            <field name="parent" ref="do-32"/>
+            <field name="country" ref="do"/>
+        </record>
+
+        <record model="country.subdivision" id="do-32-3">
+            <field name="name">Santo Domingo Oeste</field>
+            <field name="code">DO-32-3</field>
+            <field name="type">borough</field>
+            <field name="parent" ref="do-32"/>
             <field name="country" ref="do"/>
         </record>
 
