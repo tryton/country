@@ -5099,7 +5099,7 @@ msgid "Saint Paul"
 msgstr "Saint Paul"
 
 msgctxt "model:country.subdivision,name:do-01"
-msgid "Distrito Nacional (Santo Domingo)"
+msgid "Distrito Nacional"
 msgstr "Santo Domingo"
 
 msgctxt "model:country.subdivision,name:do-02"
@@ -5123,8 +5123,8 @@ msgid "Duarte"
 msgstr "Duarte"
 
 msgctxt "model:country.subdivision,name:do-07"
-msgid "La Estrelleta [Elías Piña]"
-msgstr "La Estrelleta [Elías Piña]"
+msgid "Elías Piña"
+msgstr "Elías Piña"
 
 msgctxt "model:country.subdivision,name:do-08"
 msgid "El Seybo [El Seibo]"

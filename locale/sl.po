@@ -5091,8 +5091,8 @@ msgid "Saint Paul"
 msgstr "Saint Paul"
 
 msgctxt "model:country.subdivision,name:do-01"
-msgid "Distrito Nacional (Santo Domingo)"
-msgstr "Distrito Nacional (Santo Domingo)"
+msgid "Distrito Nacional"
+msgstr "Distrito Nacional"
 
 msgctxt "model:country.subdivision,name:do-02"
 msgid "Azua"
@@ -5115,8 +5115,8 @@ msgid "Duarte"
 msgstr "Duarte"
 
 msgctxt "model:country.subdivision,name:do-07"
-msgid "La Estrelleta [Elías Piña]"
-msgstr "La Estrelleta [Elías Piña]"
+msgid "Elías Piña"
+msgstr "Elías Piña"
 
 msgctxt "model:country.subdivision,name:do-08"
 msgid "El Seybo [El Seibo]"
@@ -5209,6 +5209,26 @@ msgstr "Monte Plata"
 msgctxt "model:country.subdivision,name:do-30"
 msgid "Hato Mayor"
 msgstr "Hato Mayor"
+
+msgctxt "model:country.subdivision,name:do-31"
+msgid "San José de Ocoa"
+msgstr "San José de Ocoa"
+
+msgctxt "model:country.subdivision,name:do-32"
+msgid "Santo Domingo"
+msgstr "Santo Domingo"
+
+msgctxt "model:country.subdivision,name:do-32-1"
+msgid "Santo Domingo Este"
+msgstr "Santo Domingo Este"
+
+msgctxt "model:country.subdivision,name:do-32-2"
+msgid "Santo Domingo Norte"
+msgstr "Santo Domingo Norte"
+
+msgctxt "model:country.subdivision,name:do-32-3"
+msgid "Santo Domingo Oeste"
+msgstr "Santo Domingo Oeste"
 
 msgctxt "model:country.subdivision,name:dz-01"
 msgid "Adrar"
